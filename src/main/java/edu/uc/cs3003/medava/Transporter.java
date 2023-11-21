@@ -4,9 +4,7 @@ import java.util.ArrayList;
 
 public class Transporter {
     private ArrayList<Shippable > goods;
-    { goods = new ArrayList<Shippable >() {
-        
-    };}
+    { goods = new ArrayList<Shippable >() { };}
     public Transporter(String transporterName, double lowTemp, double highTemp) {
         mTransporterName = transporterName;
         mLowTemperature = lowTemp;

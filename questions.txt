@@ -1,0 +1,15 @@
+Some general OOP & Java Questions:
+
+1. How do we implement interfaces and abstract classes in Java?
+2. How do we use exceptions and try-catch blocks to handle errors in Java?
+3. What are the benefits of using interfaces in Java and how do they support the abstraction?
+4. What are the benefits of using inheritance for abstraction?
+
+Some specific questions I had while I was working through the code:
+
+5. What is the purpose of the Shippable interface and what kind of classes can implement it?
+6. Why do we declare that a class implements the Shippable interface and what methods does it need to override?
+7. How does the Medicine class inherit the methods and fields from the Shippable interface?
+8. What are the implications of declaring the Medicine class as an abstract class?
+9. Is the abstract class definitions desirable as compared to implementing them as simple print functions in terms on readibility?
+10. Is this implementation the best for performance? In other words, does the abstraction hinder performance in any meaningful manner.
